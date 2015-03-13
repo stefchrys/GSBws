@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{C587E40F-6C48-474C-B709-EE863583F510}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup4", "Setup4\Setup4.vdproj", "{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = ServiceGSB.vsmdi
@@ -44,6 +48,18 @@ Global
 		{C587E40F-6C48-474C-B709-EE863583F510}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C587E40F-6C48-474C-B709-EE863583F510}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C587E40F-6C48-474C-B709-EE863583F510}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Debug|Any CPU.ActiveCfg = Debug
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Debug|x86.ActiveCfg = Debug
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Release|Any CPU.ActiveCfg = Release
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Release|Mixed Platforms.ActiveCfg = Release
+		{3B20576C-D9FB-4022-BE8D-6D1F58E6CA8C}.Release|x86.ActiveCfg = Release
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Debug|Any CPU.ActiveCfg = Debug
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Debug|x86.ActiveCfg = Debug
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Release|Any CPU.ActiveCfg = Release
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Release|Mixed Platforms.ActiveCfg = Release
+		{55D21C18-9F72-47D1-9C9D-42E2BFB5F292}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

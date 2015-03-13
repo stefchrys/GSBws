@@ -10,7 +10,7 @@ namespace ServiceGSB
     class MySqlGsb
     {
         //parametre de connexion
-        private string cs = @"server=localhost;userid=root;password=;database=gsbV2";
+        private string cs = @"server=;userid=gsb_data;password=;database=gsb2";
         //objet de connexion et propriétés
         private MySqlConnection conn = null;
         private MySqlDataReader rdr = null;
